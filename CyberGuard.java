@@ -11,8 +11,8 @@ public class CyberGuard {
 
         Scanner reader = new Scanner(System.in);
 
-        Set<String> commonPasswords = loadWordList("data/common-passwords.txt");
-        Set<String> commonWords = loadWordList("data/common-words.txt");
+        Set<String> commonPasswords = loadWordList("data/password-data/common-passwords.txt");
+        Set<String> commonWords = loadWordList("data/password-data/common-words.txt");
 
         if (commonPasswords.isEmpty() || commonWords.isEmpty()) {
             System.out.println("Error: Required word lists could not be loaded");
@@ -256,4 +256,4 @@ public class CyberGuard {
 
         return words;
     }
-} 
+}
