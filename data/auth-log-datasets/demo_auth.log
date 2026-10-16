@@ -1,0 +1,242 @@
+Mar 10 06:07:31 web01 sshd[1006]: Accepted password for ubuntu from 192.0.2.35 port 36168 ssh2
+Mar 10 06:19:27 web01 sshd[1013]: Accepted password for deploy from 192.0.2.42 port 58419 ssh2
+Mar 10 06:20:15 web01 CRON[2535]: pam_unix(cron:session): session opened for user root
+Mar 10 06:20:16 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 06:20:17 web01 sshd[3897]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 06:22:38 web01 sshd[1017]: Accepted password for ubuntu from 192.0.2.15 port 38113 ssh2
+Mar 10 06:35:23 web01 sshd[1018]: Accepted password for deploy from 192.0.2.46 port 44488 ssh2
+Mar 10 06:38:32 web01 CRON[2964]: pam_unix(cron:session): session opened for user root
+Mar 10 06:38:33 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 06:38:34 web01 sshd[3950]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 06:46:17 web01 CRON[2944]: pam_unix(cron:session): session opened for user root
+Mar 10 06:46:18 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 06:46:19 web01 sshd[3572]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 06:46:53 web01 sshd[1027]: Accepted password for ubuntu from 192.0.2.28 port 50216 ssh2
+Mar 10 07:00:31 web01 sshd[1029]: Accepted password for ubuntu from 192.0.2.16 port 54405 ssh2
+Mar 10 07:04:51 web01 CRON[2965]: pam_unix(cron:session): session opened for user root
+Mar 10 07:04:52 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 07:04:53 web01 sshd[3207]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 07:11:51 web01 sshd[1037]: Failed password for deploy from 192.0.2.46 port 43497 ssh2
+Mar 10 07:12:00 web01 sshd[1272]: Failed password for invalid user support from 203.0.113.42 port 51725 ssh2
+Mar 10 07:12:02 web01 sshd[1274]: Failed password for invalid user ftp from 203.0.113.42 port 63571 ssh2
+Mar 10 07:12:04 web01 sshd[1276]: Failed password for invalid user user from 203.0.113.42 port 44978 ssh2
+Mar 10 07:12:06 web01 sshd[1281]: Failed password for invalid user test from 203.0.113.42 port 47404 ssh2
+Mar 10 07:12:08 web01 sshd[1045]: Accepted password for deploy from 192.0.2.46 port 50587 ssh2
+Mar 10 07:12:08 web01 sshd[1286]: Failed password for invalid user root from 203.0.113.42 port 41898 ssh2
+Mar 10 07:12:10 web01 sshd[1291]: Failed password for invalid user oracle from 203.0.113.42 port 57672 ssh2
+Mar 10 07:12:12 web01 sshd[1300]: Failed password for invalid user support from 203.0.113.42 port 39788 ssh2
+Mar 10 07:12:14 web01 sshd[1302]: Failed password for invalid user nagios from 203.0.113.42 port 51433 ssh2
+Mar 10 07:12:16 web01 sshd[1305]: Failed password for invalid user guest from 203.0.113.42 port 33770 ssh2
+Mar 10 07:12:18 web01 sshd[1310]: Failed password for invalid user info from 203.0.113.42 port 34745 ssh2
+Mar 10 07:12:20 web01 sshd[1315]: Failed password for invalid user admin from 203.0.113.42 port 35804 ssh2
+Mar 10 07:12:22 web01 sshd[1317]: Failed password for invalid user test from 203.0.113.42 port 44575 ssh2
+Mar 10 07:12:24 web01 sshd[1325]: Failed password for invalid user guest from 203.0.113.42 port 37974 ssh2
+Mar 10 07:12:26 web01 sshd[1334]: Failed password for invalid user admin from 203.0.113.42 port 52226 ssh2
+Mar 10 07:12:28 web01 sshd[1337]: Failed password for invalid user info from 203.0.113.42 port 47554 ssh2
+Mar 10 07:12:30 web01 sshd[1341]: Failed password for invalid user root from 203.0.113.42 port 64531 ssh2
+Mar 10 07:12:32 web01 sshd[1346]: Failed password for invalid user user from 203.0.113.42 port 40580 ssh2
+Mar 10 07:12:34 web01 sshd[1350]: Failed password for invalid user root from 203.0.113.42 port 41871 ssh2
+Mar 10 07:12:36 web01 sshd[1359]: Failed password for invalid user ftp from 203.0.113.42 port 49988 ssh2
+Mar 10 07:12:38 web01 sshd[1367]: Failed password for invalid user git from 203.0.113.42 port 49002 ssh2
+Mar 10 07:12:40 web01 sshd[1373]: Failed password for invalid user postgres from 203.0.113.42 port 47728 ssh2
+Mar 10 07:12:42 web01 sshd[1374]: Failed password for invalid user admin from 203.0.113.42 port 46413 ssh2
+Mar 10 07:12:44 web01 sshd[1383]: Failed password for invalid user admin from 203.0.113.42 port 31208 ssh2
+Mar 10 07:12:46 web01 sshd[1391]: Failed password for invalid user git from 203.0.113.42 port 63700 ssh2
+Mar 10 07:12:48 web01 sshd[1393]: Failed password for invalid user ubnt from 203.0.113.42 port 59298 ssh2
+Mar 10 07:12:50 web01 sshd[1402]: Failed password for invalid user info from 203.0.113.42 port 62440 ssh2
+Mar 10 07:12:52 web01 sshd[1407]: Failed password for invalid user support from 203.0.113.42 port 63206 ssh2
+Mar 10 07:12:54 web01 sshd[1413]: Failed password for invalid user git from 203.0.113.42 port 45044 ssh2
+Mar 10 07:12:56 web01 sshd[1420]: Failed password for invalid user git from 203.0.113.42 port 39156 ssh2
+Mar 10 07:12:58 web01 sshd[1423]: Failed password for invalid user pi from 203.0.113.42 port 33564 ssh2
+Mar 10 07:13:00 web01 sshd[1428]: Failed password for invalid user admin from 203.0.113.42 port 34634 ssh2
+Mar 10 07:13:02 web01 sshd[1429]: Failed password for invalid user info from 203.0.113.42 port 40698 ssh2
+Mar 10 07:13:04 web01 sshd[1438]: Failed password for invalid user test from 203.0.113.42 port 54961 ssh2
+Mar 10 07:13:06 web01 sshd[1443]: Failed password for invalid user ftp from 203.0.113.42 port 45873 ssh2
+Mar 10 07:13:08 web01 sshd[1446]: Failed password for invalid user root from 203.0.113.42 port 60110 ssh2
+Mar 10 07:13:10 web01 sshd[1454]: Failed password for invalid user postgres from 203.0.113.42 port 47631 ssh2
+Mar 10 07:13:12 web01 sshd[1460]: Failed password for invalid user admin from 203.0.113.42 port 47251 ssh2
+Mar 10 07:13:14 web01 sshd[1464]: Failed password for invalid user mysql from 203.0.113.42 port 51203 ssh2
+Mar 10 07:13:16 web01 sshd[1468]: Failed password for invalid user root from 203.0.113.42 port 50286 ssh2
+Mar 10 07:13:18 web01 sshd[1469]: Failed password for invalid user pi from 203.0.113.42 port 41990 ssh2
+Mar 10 07:13:20 web01 sshd[1471]: Failed password for invalid user mysql from 203.0.113.42 port 55010 ssh2
+Mar 10 07:13:22 web01 sshd[1480]: Failed password for invalid user nagios from 203.0.113.42 port 48279 ssh2
+Mar 10 07:13:24 web01 sshd[1489]: Failed password for invalid user git from 203.0.113.42 port 46264 ssh2
+Mar 10 07:13:26 web01 sshd[1494]: Failed password for invalid user admin from 203.0.113.42 port 35954 ssh2
+Mar 10 07:13:28 web01 sshd[1501]: Failed password for invalid user test from 203.0.113.42 port 39428 ssh2
+Mar 10 07:13:30 web01 sshd[1502]: Failed password for invalid user root from 203.0.113.42 port 55819 ssh2
+Mar 10 07:13:32 web01 sshd[1506]: Failed password for invalid user ftp from 203.0.113.42 port 49938 ssh2
+Mar 10 07:13:34 web01 sshd[1509]: Failed password for invalid user test from 203.0.113.42 port 64680 ssh2
+Mar 10 07:13:36 web01 sshd[1517]: Failed password for invalid user support from 203.0.113.42 port 51373 ssh2
+Mar 10 07:13:38 web01 sshd[1520]: Failed password for invalid user oracle from 203.0.113.42 port 48623 ssh2
+Mar 10 07:13:40 web01 sshd[1527]: Failed password for invalid user root from 203.0.113.42 port 63618 ssh2
+Mar 10 07:13:42 web01 sshd[1536]: Failed password for invalid user oracle from 203.0.113.42 port 64324 ssh2
+Mar 10 07:13:44 web01 sshd[1538]: Failed password for invalid user admin from 203.0.113.42 port 45069 ssh2
+Mar 10 07:13:46 web01 sshd[1541]: Failed password for invalid user admin from 203.0.113.42 port 32743 ssh2
+Mar 10 07:13:48 web01 sshd[1548]: Failed password for invalid user pi from 203.0.113.42 port 36875 ssh2
+Mar 10 07:13:50 web01 sshd[1549]: Failed password for invalid user www-data from 203.0.113.42 port 33327 ssh2
+Mar 10 07:13:52 web01 sshd[1554]: Failed password for invalid user ubnt from 203.0.113.42 port 62066 ssh2
+Mar 10 07:13:54 web01 sshd[1556]: Failed password for invalid user admin from 203.0.113.42 port 59946 ssh2
+Mar 10 07:13:56 web01 sshd[1558]: Failed password for invalid user test from 203.0.113.42 port 64471 ssh2
+Mar 10 07:13:58 web01 sshd[1560]: Failed password for invalid user nagios from 203.0.113.42 port 46527 ssh2
+Mar 10 07:22:31 web01 CRON[2458]: pam_unix(cron:session): session opened for user root
+Mar 10 07:22:32 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 07:22:33 web01 sshd[3140]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 07:23:50 web01 sshd[1047]: Accepted password for backup from 192.0.2.33 port 45997 ssh2
+Mar 10 07:32:57 web01 CRON[2124]: pam_unix(cron:session): session opened for user root
+Mar 10 07:32:58 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 07:32:59 web01 sshd[3401]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 07:35:38 web01 sshd[1052]: Accepted publickey for jsmith from 192.0.2.43 port 59414 ssh2
+Mar 10 07:43:49 web01 CRON[2323]: pam_unix(cron:session): session opened for user root
+Mar 10 07:43:50 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 07:43:51 web01 sshd[3074]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 07:48:01 web01 sshd[1055]: Accepted password for deploy from 192.0.2.17 port 52416 ssh2
+Mar 10 07:58:21 web01 sshd[1061]: Accepted password for backup from 192.0.2.12 port 50561 ssh2
+Mar 10 07:58:36 web01 CRON[2246]: pam_unix(cron:session): session opened for user root
+Mar 10 07:58:37 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 07:58:38 web01 sshd[3438]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 08:03:10 web01 CRON[2217]: pam_unix(cron:session): session opened for user root
+Mar 10 08:03:11 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 08:03:12 web01 sshd[3685]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 08:11:40 web01 CRON[2802]: pam_unix(cron:session): session opened for user root
+Mar 10 08:11:41 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 08:11:42 web01 sshd[3125]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 08:12:12 web01 sshd[1063]: Accepted publickey for jsmith from 192.0.2.48 port 34506 ssh2
+Mar 10 08:18:48 web01 sshd[1071]: Accepted password for backup from 192.0.2.54 port 50290 ssh2
+Mar 10 08:25:39 web01 sshd[1074]: Accepted publickey for backup from 192.0.2.52 port 53295 ssh2
+Mar 10 08:30:00 web01 sshd[1564]: Failed password for invalid user admin from 198.51.100.23 port 47403 ssh2
+Mar 10 08:30:18 web01 CRON[2795]: pam_unix(cron:session): session opened for user root
+Mar 10 08:30:19 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 08:30:20 web01 sshd[3158]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 08:30:45 web01 sshd[1568]: Failed password for invalid user admin from 198.51.100.23 port 43449 ssh2
+Mar 10 08:31:30 web01 sshd[1576]: Failed password for invalid user root from 198.51.100.23 port 60168 ssh2
+Mar 10 08:32:15 web01 sshd[1578]: Failed password for invalid user root from 198.51.100.23 port 55071 ssh2
+Mar 10 08:33:00 web01 sshd[1583]: Failed password for invalid user test from 198.51.100.23 port 61392 ssh2
+Mar 10 08:33:45 web01 sshd[1587]: Failed password for invalid user test from 198.51.100.23 port 33063 ssh2
+Mar 10 08:34:30 web01 sshd[1590]: Failed password for invalid user user from 198.51.100.23 port 35077 ssh2
+Mar 10 08:35:15 web01 sshd[1595]: Failed password for invalid user user from 198.51.100.23 port 51743 ssh2
+Mar 10 08:36:00 web01 sshd[1598]: Failed password for invalid user oracle from 198.51.100.23 port 49950 ssh2
+Mar 10 08:36:45 web01 sshd[1606]: Failed password for invalid user oracle from 198.51.100.23 port 30817 ssh2
+Mar 10 08:37:30 web01 sshd[1614]: Failed password for invalid user postgres from 198.51.100.23 port 33975 ssh2
+Mar 10 08:38:04 web01 sshd[1077]: Failed password for deploy from 192.0.2.41 port 48837 ssh2
+Mar 10 08:38:15 web01 sshd[1084]: Accepted password for deploy from 192.0.2.41 port 56076 ssh2
+Mar 10 08:38:15 web01 sshd[1616]: Failed password for invalid user postgres from 198.51.100.23 port 47614 ssh2
+Mar 10 08:39:00 web01 sshd[1624]: Failed password for invalid user git from 198.51.100.23 port 44266 ssh2
+Mar 10 08:39:45 web01 sshd[1633]: Failed password for invalid user git from 198.51.100.23 port 49061 ssh2
+Mar 10 08:40:30 web01 sshd[1641]: Failed password for invalid user ubnt from 198.51.100.23 port 48713 ssh2
+Mar 10 08:41:15 web01 sshd[1649]: Failed password for invalid user ubnt from 198.51.100.23 port 60533 ssh2
+Mar 10 08:42:00 web01 sshd[1658]: Failed password for invalid user guest from 198.51.100.23 port 37766 ssh2
+Mar 10 08:42:45 web01 sshd[1663]: Failed password for invalid user guest from 198.51.100.23 port 43058 ssh2
+Mar 10 08:43:30 web01 sshd[1671]: Failed password for invalid user ftp from 198.51.100.23 port 35626 ssh2
+Mar 10 08:44:15 web01 sshd[1676]: Failed password for invalid user ftp from 198.51.100.23 port 31147 ssh2
+Mar 10 08:45:00 web01 sshd[1678]: Failed password for invalid user mysql from 198.51.100.23 port 60079 ssh2
+Mar 10 08:45:45 web01 sshd[1686]: Failed password for invalid user mysql from 198.51.100.23 port 63201 ssh2
+Mar 10 08:46:30 web01 sshd[1693]: Failed password for invalid user pi from 198.51.100.23 port 47606 ssh2
+Mar 10 08:47:15 web01 sshd[1697]: Failed password for invalid user pi from 198.51.100.23 port 43751 ssh2
+Mar 10 08:48:00 web01 sshd[1699]: Failed password for invalid user support from 198.51.100.23 port 34889 ssh2
+Mar 10 08:48:32 web01 sshd[1091]: Accepted publickey for deploy from 192.0.2.20 port 38973 ssh2
+Mar 10 08:48:45 web01 sshd[1708]: Failed password for invalid user support from 198.51.100.23 port 39289 ssh2
+Mar 10 08:49:30 web01 sshd[1714]: Failed password for invalid user info from 198.51.100.23 port 47157 ssh2
+Mar 10 08:49:40 web01 CRON[2733]: pam_unix(cron:session): session opened for user root
+Mar 10 08:49:41 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 08:49:42 web01 sshd[3658]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 08:50:15 web01 sshd[1723]: Failed password for invalid user info from 198.51.100.23 port 38690 ssh2
+Mar 10 08:51:00 web01 sshd[1725]: Failed password for invalid user www-data from 198.51.100.23 port 48321 ssh2
+Mar 10 08:51:45 web01 sshd[1729]: Failed password for invalid user www-data from 198.51.100.23 port 53932 ssh2
+Mar 10 08:52:30 web01 sshd[1737]: Failed password for invalid user nagios from 198.51.100.23 port 62629 ssh2
+Mar 10 08:53:15 web01 sshd[1738]: Failed password for invalid user nagios from 198.51.100.23 port 55826 ssh2
+Mar 10 08:59:55 web01 sshd[1095]: Accepted publickey for jsmith from 192.0.2.55 port 54932 ssh2
+Mar 10 09:04:16 web01 CRON[2374]: pam_unix(cron:session): session opened for user root
+Mar 10 09:04:17 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 09:04:18 web01 sshd[3146]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 09:04:29 web01 sshd[1103]: Accepted password for deploy from 192.0.2.21 port 30790 ssh2
+Mar 10 09:05:00 web01 sshd[1739]: Failed password for backup from 203.0.113.77 port 40424 ssh2
+Mar 10 09:05:05 web01 sshd[1747]: Failed password for backup from 203.0.113.77 port 62223 ssh2
+Mar 10 09:05:10 web01 sshd[1752]: Failed password for backup from 203.0.113.77 port 56569 ssh2
+Mar 10 09:05:15 web01 sshd[1759]: Failed password for backup from 203.0.113.77 port 39221 ssh2
+Mar 10 09:05:20 web01 sshd[1766]: Failed password for backup from 203.0.113.77 port 52541 ssh2
+Mar 10 09:05:25 web01 sshd[1768]: Failed password for backup from 203.0.113.77 port 50714 ssh2
+Mar 10 09:05:30 web01 sshd[1769]: Failed password for backup from 203.0.113.77 port 51713 ssh2
+Mar 10 09:05:35 web01 sshd[1775]: Failed password for backup from 203.0.113.77 port 51269 ssh2
+Mar 10 09:05:40 web01 sshd[1777]: Failed password for backup from 203.0.113.77 port 56100 ssh2
+Mar 10 09:05:45 web01 sshd[1778]: Failed password for backup from 203.0.113.77 port 42828 ssh2
+Mar 10 09:05:50 web01 sshd[1783]: Failed password for backup from 203.0.113.77 port 48994 ssh2
+Mar 10 09:05:55 web01 sshd[1785]: Failed password for backup from 203.0.113.77 port 54393 ssh2
+Mar 10 09:06:00 web01 sshd[1792]: Failed password for backup from 203.0.113.77 port 55749 ssh2
+Mar 10 09:06:05 web01 sshd[1798]: Failed password for backup from 203.0.113.77 port 35006 ssh2
+Mar 10 09:06:10 web01 sshd[1803]: Failed password for backup from 203.0.113.77 port 58052 ssh2
+Mar 10 09:06:15 web01 sshd[1808]: Failed password for backup from 203.0.113.77 port 33163 ssh2
+Mar 10 09:06:20 web01 sshd[1809]: Failed password for backup from 203.0.113.77 port 36665 ssh2
+Mar 10 09:06:25 web01 sshd[1812]: Failed password for backup from 203.0.113.77 port 48718 ssh2
+Mar 10 09:06:30 web01 sshd[1817]: Failed password for backup from 203.0.113.77 port 46339 ssh2
+Mar 10 09:06:35 web01 sshd[1826]: Failed password for backup from 203.0.113.77 port 58589 ssh2
+Mar 10 09:06:40 web01 sshd[1830]: Failed password for backup from 203.0.113.77 port 50683 ssh2
+Mar 10 09:06:45 web01 sshd[1837]: Failed password for backup from 203.0.113.77 port 54467 ssh2
+Mar 10 09:06:55 web01 sshd[1844]: Accepted password for backup from 203.0.113.77 port 31901 ssh2
+Mar 10 09:07:20 web01 sudo:   backup : TTY=pts/2 ; PWD=/tmp ; USER=root ; COMMAND=/bin/bash
+Mar 10 09:11:55 web01 CRON[2904]: pam_unix(cron:session): session opened for user root
+Mar 10 09:11:56 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 09:11:57 web01 sshd[3140]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 09:16:32 web01 sshd[1112]: Accepted password for ubuntu from 192.0.2.26 port 57456 ssh2
+Mar 10 09:24:50 web01 sshd[1121]: Accepted password for jsmith from 192.0.2.18 port 59926 ssh2
+Mar 10 09:31:45 web01 CRON[2478]: pam_unix(cron:session): session opened for user root
+Mar 10 09:31:46 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 09:31:47 web01 sshd[3224]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 09:33:31 web01 sshd[1122]: Accepted publickey for backup from 192.0.2.35 port 56243 ssh2
+Mar 10 09:38:46 web01 sshd[1123]: Accepted password for deploy from 192.0.2.23 port 52285 ssh2
+Mar 10 09:42:30 web01 sshd[1124]: Accepted password for deploy from 192.0.2.46 port 53829 ssh2
+Mar 10 09:45:42 web01 sshd[1130]: Accepted publickey for ubuntu from 192.0.2.49 port 52766 ssh2
+Mar 10 09:47:49 web01 CRON[2975]: pam_unix(cron:session): session opened for user root
+Mar 10 09:47:50 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 09:47:51 web01 sshd[3096]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 09:55:47 web01 sshd[1138]: Accepted publickey for deploy from 192.0.2.17 port 61483 ssh2
+Mar 10 09:57:56 web01 CRON[2906]: pam_unix(cron:session): session opened for user root
+Mar 10 09:57:57 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 09:57:58 web01 sshd[3498]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:03:06 web01 sshd[1143]: Failed password for deploy from 192.0.2.19 port 52454 ssh2
+Mar 10 10:03:25 web01 sshd[1152]: Accepted password for deploy from 192.0.2.19 port 40580 ssh2
+Mar 10 10:04:02 web01 CRON[2683]: pam_unix(cron:session): session opened for user root
+Mar 10 10:04:03 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:04:04 web01 sshd[3852]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:05:29 web01 sshd[1157]: Accepted password for ubuntu from 192.0.2.43 port 64610 ssh2
+Mar 10 10:11:11 web01 CRON[2165]: pam_unix(cron:session): session opened for user root
+Mar 10 10:11:12 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:11:13 web01 sshd[3723]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:18:27 web01 sshd[1163]: Accepted publickey for deploy from 192.0.2.54 port 40947 ssh2
+Mar 10 10:21:52 web01 CRON[2527]: pam_unix(cron:session): session opened for user root
+Mar 10 10:21:53 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:21:54 web01 sshd[3413]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:24:15 web01 sshd[1170]: Accepted password for jsmith from 192.0.2.50 port 45688 ssh2
+Mar 10 10:30:59 web01 CRON[2431]: pam_unix(cron:session): session opened for user root
+Mar 10 10:31:00 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:31:01 web01 sshd[3200]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:38:52 web01 sshd[1171]: Accepted publickey for ubuntu from 192.0.2.22 port 31899 ssh2
+Mar 10 10:40:24 web01 CRON[2326]: pam_unix(cron:session): session opened for user root
+Mar 10 10:40:25 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:40:26 web01 sshd[3094]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 10:45:38 web01 sshd[1177]: Accepted publickey for backup from 192.0.2.26 port 59309 ssh2
+Mar 10 10:53:51 web01 sshd[1181]: Failed password for deploy from 192.0.2.24 port 60807 ssh2
+Mar 10 10:54:05 web01 sshd[1189]: Accepted password for deploy from 192.0.2.24 port 43393 ssh2
+Mar 10 10:56:03 web01 CRON[2374]: pam_unix(cron:session): session opened for user root
+Mar 10 10:56:04 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 10:56:05 web01 sshd[3019]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 11:05:09 web01 CRON[2567]: pam_unix(cron:session): session opened for user root
+Mar 10 11:05:10 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 11:05:11 web01 sshd[3469]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 11:06:30 web01 sshd[1191]: Accepted publickey for deploy from 192.0.2.40 port 35556 ssh2
+Mar 10 11:15:07 web01 sshd[1193]: Accepted publickey for ubuntu from 192.0.2.40 port 51791 ssh2
+Mar 10 11:16:00 web01 CRON[2720]: pam_unix(cron:session): session opened for user root
+Mar 10 11:16:01 web01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 10 11:16:02 web01 sshd[3018]: Received disconnect from 192.0.2.15 port 41122:11: disconnected by user
+Mar 10 11:29:26 web01 sshd[1196]: Accepted password for backup from 192.0.2.39 port 40410 ssh2
+Mar 10 11:33:36 web01 sshd[1204]: Accepted publickey for deploy from 192.0.2.19 port 39579 ssh2
+Mar 10 11:46:49 web01 sshd[1205]: Accepted password for jsmith from 192.0.2.19 port 31402 ssh2
+Mar 10 12:01:12 web01 sshd[1209]: Accepted password for deploy from 192.0.2.43 port 58430 ssh2
+Mar 10 12:06:48 web01 sshd[1214]: Accepted password for deploy from 192.0.2.26 port 51364 ssh2
+Mar 10 12:18:05 web01 sshd[1222]: Failed password for backup from 192.0.2.18 port 53185 ssh2
+Mar 10 12:18:25 web01 sshd[1231]: Accepted password for backup from 192.0.2.18 port 57566 ssh2
+Mar 10 12:22:18 web01 sshd[1232]: Accepted publickey for ubuntu from 192.0.2.43 port 42000 ssh2
+Mar 10 12:26:51 web01 sshd[1238]: Accepted password for ubuntu from 192.0.2.19 port 34047 ssh2
+Mar 10 12:40:29 web01 sshd[1242]: Accepted password for backup from 192.0.2.60 port 46285 ssh2
+Mar 10 12:47:12 web01 sshd[1251]: Failed password for deploy from 192.0.2.59 port 59633 ssh2
+Mar 10 12:47:16 web01 sshd[1259]: Accepted password for deploy from 192.0.2.59 port 34152 ssh2
+Mar 10 12:54:45 web01 sshd[1263]: Accepted publickey for ubuntu from 192.0.2.54 port 63276 ssh2

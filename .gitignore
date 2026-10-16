@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+!data/auth-log-datasets/*.log
 
 # BlueJ files
 *.ctxt

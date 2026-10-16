@@ -1,0 +1,32 @@
+Jul 12 00:00:01 gw systemd[1]: Starting Session c1 of user root.
+Jul 12 00:01:11 gw sshd[3001]: Accepted publickey for deploy from 198.51.100.20 port 55010 ssh2: RSA SHA256:abc
+Jul 12 00:03:42 gw sshd[3010]: Failed password for invalid user admin from 203.0.113.10 port 40001 ssh2
+Jul 12 00:03:44 gw sshd[3010]: Invalid user admin from 203.0.113.10
+Jul 12 00:03:46 gw sshd[3011]: Failed password for invalid user root from 203.0.113.10 port 40007 ssh2
+Jul 12 00:03:48 gw sshd[3012]: Failed password for invalid user oracle from 203.0.113.10 port 40013 ssh2
+Jul 12 00:03:50 gw sshd[3013]: Failed password for invalid user postgres from 203.0.113.10 port 40019 ssh2
+Jul 12 00:03:52 gw sshd[3014]: Failed password for root from 203.0.113.10 port 40025 ssh2
+Jul 12 00:03:54 gw sshd[3015]: Failed password for invalid user test from 203.0.113.10 port 40031 ssh2
+Jul 12 00:03:56 gw sshd[3016]: Failed password for invalid user user from 203.0.113.10 port 40037 ssh2
+Jul 12 00:04:10 gw CRON[3100]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 12 00:12:00 gw sshd[3200]: Failed password for invalid user admin from 203.0.113.55 port 51000 ssh2
+Jul 12 00:12:02 gw sshd[3201]: Failed password for invalid user admin from 203.0.113.55 port 51004 ssh2
+Jul 12 00:12:04 gw sshd[3202]: Failed password for invalid user admin from 203.0.113.55 port 51008 ssh2
+Jul 12 00:12:06 gw sshd[3203]: Failed password for invalid user admin from 203.0.113.55 port 51012 ssh2
+Jul 12 00:12:08 gw sshd[3204]: Failed password for invalid user admin from 203.0.113.55 port 51016 ssh2
+Jul 12 00:22:33 gw sshd[3300]: Failed password for alice from 198.51.100.20 port 55210 ssh2
+Jul 12 00:22:38 gw sshd[3301]: Accepted password for alice from 198.51.100.20 port 55210 ssh2
+Jul 12 01:00:00 gw sshd[3400]: Failed password for invalid user ubuntu from 192.0.2.77 port 33001 ssh2
+Jul 12 01:00:05 gw sshd[3401]: Failed password for invalid user pi from 192.0.2.77 port 33005 ssh2
+Jul 12 01:00:09 gw sshd[3402]: Failed password for invalid user jenkins from 192.0.2.77 port 33009 ssh2
+Jul 12 01:00:13 gw sshd[3403]: Failed password for invalid user git from 192.0.2.77 port 33013 ssh2
+Jul 12 01:00:17 gw sshd[3404]: Failed password for root from 192.0.2.77 port 33017 ssh2
+Jul 12 01:00:21 gw sshd[3405]: Failed password for root from 192.0.2.77 port 33021 ssh2
+Jul 12 01:00:25 gw sshd[3406]: Accepted password for root from 192.0.2.77 port 33025 ssh2
+Jul 12 02:15:00 gw sshd[3500]: Failed password for carol from 2001:db8::5 port 60001 ssh2
+Jul 12 02:15:20 gw sshd[3501]: Accepted password for carol from 2001:db8::5 port 60001 ssh2
+Jul 12 03:30:00 gw sshd[3600]: Failed password for invalid user admin from 203.0.113.10 port 40100 ssh2
+Jul 12 03:30:02 gw sshd[3601]: Failed password for invalid user admin from 203.0.113.10 port 40106 ssh2
+Jul 12 03:30:04 gw sshd[3602]: pam_unix(sshd:auth): authentication failure; rhost=203.0.113.10
+Jul 12 08:45:12 gw sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 12 23:59:59 gw systemd[1]: Finished daily apt upgrade check.

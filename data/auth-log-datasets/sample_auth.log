@@ -1,0 +1,16 @@
+Jul  9 08:15:02 webhost sshd[1010]: Accepted password for alice from 198.51.100.4 port 51544 ssh2
+Jul  9 08:15:02 webhost sshd[1010]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Jul  9 09:41:19 webhost sshd[1188]: Failed password for bob from 198.51.100.7 port 49110 ssh2
+Jul  9 09:41:25 webhost sshd[1188]: Accepted password for bob from 198.51.100.7 port 49110 ssh2
+Jul  9 14:02:11 webhost sshd[1450]: Failed password for invalid user admin from 203.0.113.9 port 40222 ssh2
+Jul  9 14:02:12 webhost sshd[1450]: Invalid user admin from 203.0.113.9
+Jul  9 14:02:13 webhost sshd[1451]: Failed password for invalid user root from 203.0.113.9 port 40224 ssh2
+Jul  9 14:02:15 webhost sshd[1452]: Failed password for invalid user oracle from 203.0.113.9 port 40230 ssh2
+Jul  9 14:02:17 webhost sshd[1453]: Failed password for invalid user postgres from 203.0.113.9 port 40236 ssh2
+Jul  9 14:02:19 webhost sshd[1454]: Failed password for invalid user admin from 203.0.113.9 port 40240 ssh2
+Jul  9 14:02:21 webhost sshd[1455]: Failed password for root from 203.0.113.9 port 40244 ssh2
+Jul  9 14:02:23 webhost sshd[1456]: Failed password for invalid user test from 203.0.113.9 port 40250 ssh2
+Jul  9 15:10:03 webhost sshd[1600]: Failed password for invalid user git from 192.0.2.55 port 33001 ssh2
+Jul  9 15:10:05 webhost sshd[1601]: Failed password for invalid user deploy from 192.0.2.55 port 33005 ssh2
+Jul  9 18:22:40 webhost sshd[1720]: Accepted password for carol from 198.51.100.4 port 52210 ssh2
+Jul  9 23:59:59 webhost systemd[1]: Started daily rotation timer.
