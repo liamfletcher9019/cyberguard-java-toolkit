@@ -37,7 +37,7 @@ public class SecurityLogAnalyzer {
 
     private static final Pattern TIMESTAMP_PATTERN = Pattern.compile("^(\\w{3} \\d{1,2} \\d{2}:\\d{2}:\\d{2})");
 
-    private static final Pattern IP_PATTERN = Pattern.compile("from (\\S+)");
+    private static final Pattern IP_PATTERN = Pattern.compile("from ((?:\\d{1,3}\\.){3}\\d{1,3})\\b");
 
     private static final Pattern USERNAME_PATTERN = Pattern.compile(
             "(?:Failed password for (?:invalid user )?"
@@ -485,7 +485,8 @@ public class SecurityLogAnalyzer {
 
     public static void main(String[] args) {
         try {
-            List<String> logLines = readLogFile(LOG_FILE_PATH);
+            String logFilePath = args.length > 0 ? args[0] : LOG_FILE_PATH;
+            List<String> logLines = readLogFile(logFilePath);
 
             System.out.println(
                     "Loaded " + logLines.size() + " log lines.");
